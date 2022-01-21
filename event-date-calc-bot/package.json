@@ -1,0 +1,22 @@
+{
+  "name": "event-date-calc-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event-date-calc-bot"
+  ],
+  "author": "event-date-calc-bot",
+  "license": "ISC",
+  "description": "event-date-calc-bot",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-datetime": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "event-date-calc-bot"
+  }
+}
